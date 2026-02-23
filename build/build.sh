@@ -11,7 +11,7 @@
 set -euo pipefail
 
 if [[ ! "$BASH_VERSION" > "5.2.0" ]]; then
-    >&2 echo "Requires bash 5.2 or above. Sorry."
+    >&2 echo "Requires bash 5.2 or above, if thats not u, fuck you. respectfully ;DROP TABLES"
     exit 1
 fi
 
